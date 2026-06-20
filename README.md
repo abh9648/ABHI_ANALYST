@@ -51,6 +51,8 @@ Excel projects include:
 
 These projects demonstrate how Excel can be used for effective business analysis and reporting.
 
+![Excel Dashboard](Image/Excel.png)
+
 ---
 
 ## Power BI Projects
@@ -66,6 +68,8 @@ Power BI projects focus on:
 
 The dashboards provide meaningful insights from raw datasets and support data-driven decision-making.
 
+![Power BI Dashboard](Image/PowerBI.png)
+
 ---
 
 ## Python Projects
@@ -80,6 +84,16 @@ Python projects include:
 * Automation Scripts
 
 These projects demonstrate practical applications of Python in data analytics workflows.
+
+![Python Project](Image/Python.png)
+
+---
+
+## Tableau Projects
+
+For the Tableau project, I created dashboards and visualizations to transform complex datasets into meaningful business insights.
+
+![Tableau Dashboard](Image/Tableau.png)
 
 ---
 
